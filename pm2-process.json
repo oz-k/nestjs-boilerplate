@@ -1,0 +1,8 @@
+{
+    "script":"./dist/main.js",
+    "watch":true,
+    "watch_delay": 5000,
+    "ignore_watch":["public", "node_modules", "src", "test"],
+    "instances" : "-1",
+    "exec_mode": "cluster"
+}
