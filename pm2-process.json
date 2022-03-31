@@ -1,4 +1,5 @@
 {
+    "name": "",
     "script":"./dist/main.js",
     "watch":true,
     "watch_delay": 5000,

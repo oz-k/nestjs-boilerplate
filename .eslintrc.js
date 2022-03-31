@@ -82,5 +82,8 @@ module.exports = {
             props: false
         }],
         'arrow-parens': ['error', 'as-needed'],
+        'consistent-return': 'off',
+        '@typescript-eslint/no-empty-interface': 'off',
+        '@typescript-eslint/lines-between-class-members': 'off',
     },
 };
